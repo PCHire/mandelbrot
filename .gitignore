@@ -1,0 +1,7 @@
+sfml/
+Debug/
+Release/
+mandelbrot_v2/Debug/
+mandelbrot_v2/mandelbrot_v2.vcxproj
+mandelbrot_v2/mandelbrot_v2.vcxproj.filters
+mandelbrot_v2/mandelbrot_v2.vcxproj.user
